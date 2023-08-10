@@ -10,3 +10,5 @@ This is my first data science project, realized in the frame of the IBM data sci
 6. Interactive map visualization with folium
 7. Interactive dashboard vizualisation with Plotly
 8. Machine learning prediction (SVM, KNN, logistic regression, decision tree) and model evaluation
+
+Check the report for a summary
